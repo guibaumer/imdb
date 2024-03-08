@@ -1,0 +1,4 @@
+npm i react-icons react-router-dom
+criar dotenv e ir pro repositório (api.txt)
+no main, criar as três rotas
+páginas no pages

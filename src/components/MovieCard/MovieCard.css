@@ -1,0 +1,47 @@
+.movie_card {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    max-width: 450px;
+    background-color: rgb(35, 35, 35);
+    padding: 20px;
+    border-radius: 5px;
+    height: 880px;
+    margin-bottom: 20px;
+    position: relative;
+}
+.movie_card h2 {
+    font-size: 30px;
+    text-align: left;
+    margin: 0;
+    margin: 20px 0px 15px 10px;
+}
+.movie_card p {
+    font-size: 22px;
+    margin: 0px 0px 30px 10px;
+    color: #fff;
+}
+.movie_card p path {
+    color: #f7c956;
+}
+.movie_card a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 21px;
+    width: 90%;
+    background-color: #f7c956;
+    color: #000;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container {    
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+.movie_card img {
+    height: 615px;
+}

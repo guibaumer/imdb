@@ -1,0 +1,34 @@
+nav.nav_header {
+    background-color: #131313;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 30px 20px 30px;
+}
+nav.nav_header a {
+    color: #f7c956;
+    font-size: 28px;
+}
+.nav_header form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav.nav_header input {
+    height: 40px;
+    font-size: 18px;
+    padding: 0px 5px 0px 5px;
+    border-radius: 5px;
+}
+nav.nav_header button {
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7c956;
+    border: none;
+    margin-left: 5px;
+}

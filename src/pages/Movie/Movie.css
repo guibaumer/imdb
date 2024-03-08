@@ -1,0 +1,39 @@
+body {
+    padding-bottom: 30px;
+}
+.movie_container h2 {
+    color: #fff;
+    margin: 20px 0px 0px 0px;
+}
+.movie_container img {
+    width: 100%;
+    max-width: 600px;
+}
+.movie_container p {
+    font-size: 23px;
+    color: #fff;
+}
+.movie_container path {
+    color: #f7c956;
+}
+.movie_container {
+    margin: 80px auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.movie_informations p {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 10px 0px 25px 40px;  
+    line-height: 28px;  
+}
+strong {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
